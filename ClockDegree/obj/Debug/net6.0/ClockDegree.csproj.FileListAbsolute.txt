@@ -1,0 +1,15 @@
+D:\GUC\Reiz\ClockDegree\ClockDegree\bin\Debug\net6.0\ClockDegree.exe
+D:\GUC\Reiz\ClockDegree\ClockDegree\bin\Debug\net6.0\ClockDegree.deps.json
+D:\GUC\Reiz\ClockDegree\ClockDegree\bin\Debug\net6.0\ClockDegree.runtimeconfig.json
+D:\GUC\Reiz\ClockDegree\ClockDegree\bin\Debug\net6.0\ClockDegree.dll
+D:\GUC\Reiz\ClockDegree\ClockDegree\bin\Debug\net6.0\ClockDegree.pdb
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.csproj.AssemblyReference.cache
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.AssemblyInfoInputs.cache
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.AssemblyInfo.cs
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.csproj.CoreCompileInputs.cache
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.dll
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\refint\ClockDegree.dll
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.pdb
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ClockDegree.genruntimeconfig.cache
+D:\GUC\Reiz\ClockDegree\ClockDegree\obj\Debug\net6.0\ref\ClockDegree.dll
