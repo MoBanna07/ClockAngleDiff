@@ -11,6 +11,7 @@
             if (hours < 0 || minutes < 0)
             {
                 Console.WriteLine("Please enter a positive number");
+                Console.ReadKey();
             }
             else
             {
@@ -41,6 +42,7 @@
         catch (FormatException)
         {
             Console.WriteLine("Please enter a number");
+            Console.ReadKey();
         }
     }
 }
